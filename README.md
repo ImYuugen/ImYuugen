@@ -1,6 +1,8 @@
 ### Hi there, I'm Yuugen 👋
 I am currently a 3rd year student @Epita, I like coding, gaming and learning a bunch of random stuff that I probably won't ever use
 
+Apparently a "Rust cultist" 🦀
+I love writing low level stuff as well as [game engines](https://github.com/ImYuugen/fragment)
 <!--
 **ImYuugen/ImYuugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
