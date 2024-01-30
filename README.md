@@ -1,5 +1,5 @@
 ### Hi there, I'm Yuugen 👋
-I am currently a 3rd year student at @EPITA, I like coding, gaming and learning a bunch of random stuff that I probably won't ever use
+I am currently a 3rd year student @Epita, I like coding, gaming and learning a bunch of random stuff that I probably won't ever use
 
 <!--
 **ImYuugen/ImYuugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
