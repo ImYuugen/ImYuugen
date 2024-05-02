@@ -3,6 +3,9 @@ I am currently a 3rd year student @Epita, I like coding, gaming and learning a b
 
 Apparently a "Rust cultist" 🦀
 I love learning about low level stuff but I have yet to commit to a project
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ImYuugen&show_icons=true&include_all_commits=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImYuugen&theme=merko&include_all_commits=true&count_private=true)
 <!--
 **ImYuugen/ImYuugen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
