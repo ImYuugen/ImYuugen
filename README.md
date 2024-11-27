@@ -1,5 +1,5 @@
 ### Hi there, I'm Yuugen 👋
-Currently a 3rd year student @Epita, I like coding, gaming and learning a bunch of random stuff that I probably won't ever use
+Currently a 4th year student @Epita, I like coding, gaming and learning a bunch of random stuff that I probably won't ever use
 
 Apparently a "Rust cultist" 🦀
 I love learning about low level stuff but I have yet to commit to a project
